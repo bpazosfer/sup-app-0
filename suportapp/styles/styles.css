@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.home-menu-item {
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 1rem;
+    /*width: 15rem;*/
+}
+
+.btn:hover {
+    background-color: orangered;
+    border-color: orangered;
+    color: black;
+}
+
+.btn-color-blue {
+    background-color: orange;
+    border-color: orange;
+}
+
+.btn-color-orange {
+    background-color: #40e0d0;
+    border-color: #40e0d0;
+}
+
+.header-index {
+
+    text-align: center;
+    height: 15%;
+    background-image: url(https://img.freepik.com/vector-gratis/patron-geometrico-groovy_23-2148854270.jpg?w=1060&t=st=1691463143~exp=1691463743~hmac=fe0374485e0620faeacefdafb99aaf83cd8a6d9b2f08fef4bfa7042f63c2abf5);
+    opacity: 0.6;
+    /*background-repeat: no-repeat; */
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.card-zone {
+    height: 33vh;
+    top: 33vh;
+    background-image: url(https://img.freepik.com/vector-gratis/patron-geometrico-groovy_23-2148854270.jpg?w=1060&t=st=1691463143~exp=1691463743~hmac=fe0374485e0620faeacefdafb99aaf83cd8a6d9b2f08fef4bfa7042f63c2abf5);
+    /*background-repeat: no-repeat;*/
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bg-orange {
+    background-color: orangered;
+}
+
+.pata {
+    background-color: orangered;
+}
